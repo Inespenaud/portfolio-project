@@ -1,2 +1,2 @@
-# portfolio-project
- This is where we're going to replicate current project for submission
+# core-1-int-setup-demo
+ Core 1 int setup demo
